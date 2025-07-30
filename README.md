@@ -1,4 +1,6 @@
 **Power BI Internship at Cognifyz Technologies**
+
+
 Overview During my internship at Cognifyz Technologies, I was assigned 7 tasks under the domain of Data Visualization. Each task involved loading data, performing analysis, and creating interactive dashboards using Power BI. Below is a detailed breakdown of each task and the insights gained.
 
 **Tasks**
